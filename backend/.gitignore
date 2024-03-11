@@ -1,0 +1,4 @@
+# Ignore config file
+config.env
+
+/node_modules
